@@ -14,6 +14,10 @@ Kafka for Python Developers - https://www.youtube.com/playlist?list=PLjfRmoYoxpN
 
 
 
+Python from basic - https://www.youtube.com/playlist?list=PLhQjrBD2T3817j24-GogXmWqO5Q5vYy0V
+
+
+
 Apache Spark Interview Questions  - https://www.youtube.com/playlist?list=PLlTGKmqe7vueG778rnviKBCpXw-xfXtJV
 
 
